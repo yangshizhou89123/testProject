@@ -5,6 +5,6 @@ package com.ysr.demo;
  */
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("ni hoao");
+        System.out.println("ni hoao ma");
     }
 }
